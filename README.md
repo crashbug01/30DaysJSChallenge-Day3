@@ -2,6 +2,8 @@
 
 ## About This Project
 
+![GitHub last commit](https://img.shields.io/github/last-commit/crashbug01/30DaysJSChallenge-Day3)<br>
+
 This project demonstrates how to build an interactive image editor that updates in real-time. It uses Vanilla JavaScript to listen for user input and update CSS variables, allowing for seamless changes to image filters, padding, and colors. This project is part of the "30 Days of JavaScript" challenge by Wes Bos.
 
 ### Key Learning Objective
